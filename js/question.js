@@ -3,53 +3,53 @@
  // Array of Objects
  const quiz = [
   {
-  	q:'Uit welk land komt een pizza?',
-  	options:['Italië','Frankrijk','Amerika','Nederland'],
+  	q:'Wanneer begon en eindigde de Tweede Wereldoorlog?',
+  	options:['1939-1945','1935-1945','1941-1945'],
   	answer:0
   },
   {
-  	q:'Welke band is hoger bij judo?',
-  	options:['Witte band','Bruine band','Groene band','Gele band'],
-  	answer:1
-  },
-  {
-  	q:'Wat is duurder bij de Mc.Donalds',
-  	options:['Cheeseburger','Hamburger'],
-  	answer:0
-  },
-  {
-  	q:'Hoeveel nullen heeft een miljoen?',
-  	options:['9','3','6'],
+  	q:'Welk sportevenement start met het overbrengen van vuur?',
+  	options:['Wereldkampioenschappen','Europese kampioenschappen','Olympische spelen'],
   	answer:2
   },
   {
-  	q:'Zit je trommelvlies in je oor, oog of neus?',
-  	options:['Oor','Oog','Neus'],
+  	q:'Wat is 18 x 12?',
+  	options:['216','218','222'],
   	answer:0
   },
   {
-    q:'Wat is de kleur van de jurk van Assepoester?',
-    options:['Groen','Blauw','Geel','Rood'],
-    answer:1,
+  	q:'Hoeveel zintuigen heeft een mens',
+  	options:['4','5','6'],
+  	answer:1
   },
   {
-    q:'Schrijf je portomonnee of portemonnee?',
-    options:['Portomonnee','Portemonnee'],
-    answer:1,
+  	q:'Hoeveel tijd heeft de aarde nodig om rond de zon te draaien',
+  	options:['300 dagen','365 dagen','445 dagen'],
+  	answer:1
   },
   {
-    q:'Wat is de hoofdstad van Spanje?',
-    options:['Madrid','Barcelona','Sevilla','Marbella'],
+    q:'Als een vliegtuig of boot in nood is, dan kan hij via 3 korte, 3 lange en dan weer 3 korte signalen om hulp vragen. Welk sein wordt gegeven?',
+    options:['SOS','112','PRIO ALARM'],
     answer:0,
   },
   {
-    q:'Hoeveel kleuren bevat de regenboog?',
-    options:['7','8','9'],
+    q:'Welke teamsport is ontstaan door voetbal en handbal te combineren? ',
+    options:['Rugby','Hockey','Voetbal'],
     answer:0,
   },
   {
-    q:'Welke kleur krijg je als je geel en rood met elkaar mengt?',
-    options:['Oranje','Blauw','Groen','Roze'],
+    q:'Hoe noem je de sprookjes paddenstoel die op bomen kan groeien? ',
+    options:['Elfenbankje','Sprookjesbank','Bank op een boom'],
+    answer:0,
+  },
+  {
+    q:'Hoe heet het laagje waarmee je tanden bedekt zijn?',
+    options:['Glazuur','Tandplak','Tandsteen'],
+    answer:0,
+  },
+  {
+    q:'Hoe noem je de japanse hapjes die worden gemaakt van rijst, rauwe vis en zeewier? ',
+    options:['Sushi','Poké bowl','Rijst met kerrie'],
     answer:0,
   }
  ]
