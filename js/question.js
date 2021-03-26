@@ -4,7 +4,7 @@
  const quiz = [
   {
   	q:'Wanneer begon en eindigde de Tweede Wereldoorlog?',
-  	options:['1939-1945','1935-1945','1941-1945'],
+  	options:['1939 - 1945','1935 - 1945','1941 - 1945'],
   	answer:0
   },
   {
