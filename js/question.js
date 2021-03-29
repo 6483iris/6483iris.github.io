@@ -48,7 +48,7 @@
     answer:0,
   },
   {
-    q:'Hoe noem je de japanse hapjes die worden gemaakt van rijst, rauwe vis en zeewier? ',
+    q:'Hoe noem je de Japanse hapjes die worden gemaakt van rijst, rauwe vis en zeewier? ',
     options:['Sushi','Poké bowl','Rijst met kerrie'],
     answer:0,
   }
